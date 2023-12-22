@@ -1,0 +1,66 @@
+
+/* Add this CSS in your stylesheet or in a style tag within your component */
+.footer-container {
+    display: flex;
+    justify-content: space-around; /* Adjust as needed */
+    padding: 20px; /* Add padding as needed */
+    /* background-color: #333;  */
+    color: white; /* Set the text color as needed */
+    position: absolute;
+    top:3100px;
+    left: 100px;
+  }
+  
+  .footer-container div {
+    flex: 1;
+    margin-right: 10px; /* Adjust spacing between divs */
+    background-color: transparent;
+    
+  }
+  
+  .footer-container span {
+    font-weight: bold;
+    margin-right: 30px;
+  }
+  
+  .footer-container ul {
+    list-style: none;
+    padding: 0;
+    background-color: transparent;
+  }
+  
+  .footer-container li {
+    margin-bottom: 8px; /* Adjust spacing between list items */
+    background-color: transparent;
+  }
+  
+  .footer-container button {
+    padding: 10px;
+    margin-top: 20px;
+    border-radius: 5px;
+    background-color: transparent; /* Set button background color */
+    color: white; /* Set button text color */
+    border: 1px solid white;
+    cursor: pointer;
+  }
+  .footer-con{
+    margin-right: 40px;
+    width: 600px;
+  }
+  .footer-list1{
+    width: 233px;
+    margin-left: 50px;
+  }
+  .footer-list2{
+    width:233px;
+    margin-left: -140px;
+
+  }
+  .footer-list3{
+    width:233px;
+    margin-left: -145px;
+  }
+  .footer-list4{
+    width:233px;
+    margin-left: -80px;
+  }

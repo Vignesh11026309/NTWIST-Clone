@@ -1,0 +1,1 @@
+const imgrobo ={ backgroundImage: `url(${})`}

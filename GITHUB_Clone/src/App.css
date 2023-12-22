@@ -1,0 +1,182 @@
+.drop{
+    background-color: white;
+    border-radius: 15px;
+
+}
+
+.drop a:hover{
+    color: #2f81f7;
+}
+.productDrop{
+    display: flex;
+}
+*{  
+    background-color: black;
+    margin: 0;
+    padding: 0;
+    font-family: "Mona Sans","Mona Sans Header Fallback",-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+}
+.headSpan{
+    font-size: 96px;
+    color:white;
+    font-weight: 600;
+
+}
+.headSpan-2{
+    font-size: 24px ;
+    line-height: 28px;
+    color: #b1b1b8;
+}
+
+/* .inputArea{
+    border-right: 1px solid gray;
+    height: 50px;
+    margin-left: 50px;
+} */
+.input-email {
+    background-color: white;
+    width: 300px;
+    height: 50px;
+    /* border: 2px solid rgb(8, 151, 151);  */
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px; 
+    box-sizing: border-box; 
+    outline: none; 
+  }
+  .input-email:focus {
+    border: 2px solid rgb(8, 151, 151);
+    /* Optionally, you can add a different color or style for the focused state */
+  }
+.signup-for-github-btn {
+    width: 200px;
+    height: 50px;
+    background-color: rgb(150, 61, 233);
+    border-top-right-radius: 5px; 
+  border-bottom-right-radius: 5px;
+    color: white;
+    font-weight: 400;
+    text-align: center;
+    transition: box-shadow 0.3s ease; /* Add a transition for a smooth effect */
+}
+  
+.signup-for-github-btn:active {
+    box-shadow: 0 4px 2px -2px rgba(0, 0, 0, 0.2);
+}
+  
+.contentHead{
+    position: absolute;
+    left: 230px;
+    top: 140px;
+   
+}
+.Start-a-free-enterprise-trial-btn{
+    width: 240px;
+    height: 50px;
+    color: white;
+    font-weight: 600;
+    text-align: center;
+    margin-left: 60px;
+    box-sizing: border-box; 
+    outline: none; 
+    border-color: palevioletred;
+    border-radius: 5px;
+   
+}
+.inputArea{
+    margin-top: 100px;
+}
+/* .imgRobo{
+    position: absolute;
+    top: 0;
+    right: 0;
+    z-index: -1;
+} */
+.company-head{
+    font-size: 20px !important;
+    line-height: 28px !important;
+    color: #b1b1b8;
+}
+.company{
+    margin-top: 115px;
+}
+.comany-img {
+    display: flex;
+    justify-content: space-between; /* Adjust as needed */
+  }
+  
+  .comany-img img {
+    margin-right: 70px; /* Adjust the margin value as needed */
+    
+  }
+  
+  .comany-img img:last-child {
+    margin-right: 0; /* Remove margin for the last image */
+  }
+.productivity-page{
+   margin-top: 100px;
+}
+.productivity-head{
+    font-size: 24px;
+    color: white;
+}
+.productivity-span{
+    font-size: 40px;
+    color: #3fb950;
+    font-weight: 400;
+}
+.productivity-content{
+    color: white;
+    font-weight: 400;
+    font-size: 40px;
+}
+.coding-img{
+    width: 1200px;
+    border-radius: 15px;
+}
+.coding-div{
+    margin-top: 70px;
+    position: absolute;
+    left: -120px;
+    
+}
+.Github-copilot-content{
+    color: #b1b1b8;
+    font-size: 24px;
+    position: relative;
+    top: 790px;
+}
+.Github-copilot-span{
+    color:white;
+    font-size: 24px;
+    font-weight: 600;
+}
+.increase-page{
+
+    position: relative;
+    top: 940px;
+}
+.increase-span{
+    font-size: 78px;
+    color: #3fb950;
+    font-weight: 400;
+
+}
+.increase-content{
+    font-size: 24px;
+    color:white
+
+}
+.Github-copilot-img{
+    color: #b1b1b8;
+    font-size: 24px;
+    margin-left: 15px;
+
+}
+.explore{
+    color:white;
+    font-size: 24px;
+    font-weight: 600;
+}
+
+
+
