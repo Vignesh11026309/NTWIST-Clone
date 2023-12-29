@@ -242,11 +242,6 @@
   font-weight: 100;
   font-size: small;
 }
-
-
-
-
-
 .head-content {
   opacity: 0; 
   animation: fadeInUp 2s ease-in-out forwards; 
@@ -262,7 +257,6 @@
     transform: translateY(0); 
 }
 }
-/* 
 .mine--to-mill {
   opacity: 0;
   transform: translateY(20px);
@@ -303,7 +297,7 @@
 .oil-gas:hover {
   opacity: 1;
   transform: translateY(0);
-}  */
+}  
 
 
 
